@@ -12,4 +12,4 @@ El uso del aprendizaje de máquina en el arte digital ha abierto nuevas posibili
 
 No solo permite al artista generar imágenes y sonidos interactivos y obras visuales que tal vez antes requerían de grandes equipos técnicos, sino que también facilita la colaboración entre artistas y permite una interacción personalizada al público. 
 
-En esta asignatura en particular, el Machine Learning se convirtió en una herramienta fácil de comprender y divertida; al ser interactiva, permite que varias personas puedan dar su opinión y participar en este proyecto. En generaL, brinda al artista una libertad inmensa para explorar y experimentar. 
+En esta asignatura en particular, el Machine Learning se convirtió en una herramienta fácil de comprender y divertida; al ser interactiva, permite que varias personas puedan dar su opinión y participar en este proyecto. En generaL, brinda al artista una libertad inmensa para explorar y experimentar.. 
